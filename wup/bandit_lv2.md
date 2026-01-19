@@ -10,4 +10,5 @@ sau đó là in ra danh sách tệp/thư mục có trong home
 vì file '-' có cái tên đặc biệt được hiểu là  stdin (standard input) nên ta phải làm như sau để đọc thông tin trong file
 
 ![image](https://hackmd.io/_uploads/Bycm61PExe.png)
+
 và có được pass: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
